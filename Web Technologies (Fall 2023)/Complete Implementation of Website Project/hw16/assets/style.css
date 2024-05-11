@@ -1,0 +1,50 @@
+/* CSS Document */
+body, h1, h2, p, table {
+    margin: 0;
+    padding: 0;
+}
+
+/* Center align text in navigation */
+.navigation td {
+    text-align: center;
+}
+
+/* Remove link underlines and apply hover effect */
+.navigation a {
+    text-decoration: none;
+}
+
+.navigation a:hover {
+    color: #007bff; /* Change color on hover */
+}
+
+/* Apply a click effect when a link is clicked */
+.navigation a:active {
+    color: #ff0000; /* Change color when clicked */
+}
+
+/* Style for the class table */
+.class-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.class-table th, .class-table td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: center;
+}
+
+.class-table th {
+    background-color: #FF9600;
+    color: #fff;
+}
+
+/* Style for the image container */
+.img {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+    max-width: 50%;
+    height: auto;
+}
