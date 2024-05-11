@@ -1,1 +1,1 @@
-A comprehensive collection of projects and previous work completed. This portfolio is intended to present the high quality of my work and the variety of skills I possess.
+The repository for my Final Project can be viewed here: https://github.com/igjere/CS4423-FinalProject
